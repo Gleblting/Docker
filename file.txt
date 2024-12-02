@@ -6,4 +6,4 @@ Copy , add - обе команды копируют файлы с директо
 Expose - PORT	
 CMD 
 ENTRYPOINT	
-
+mdklmdkfglmgdksnmsdknmdgkoinm

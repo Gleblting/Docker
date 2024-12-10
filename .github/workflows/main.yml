@@ -6,6 +6,6 @@ on:
 
 
 jobs:
-  Start-DB-DumpSchemaAndMigrations:
+  Start-DB-DumpSchemaAndMigration:
     uses:  Gleblting/CI-CD/.github/workflows/evv.yml@master
     secrets: inherit

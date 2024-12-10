@@ -1,0 +1,11 @@
+name: envwork
+on: 
+  push:
+    branches: 
+    - master
+
+
+jobs:
+  Start-DB-DumpSchemaAndMigrations:
+    uses: Gleblting/CI-CD/.github/workflows/evv.yml@master
+    secrets: inherit
